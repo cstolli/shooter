@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ebd889488737b4de9b4d86c41b0680fb
+timeCreated: 1490662073
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: High speed
+  fontNames:
+  - High speed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cca2dc6e4929e42f197ec9d237a366a0
+timeCreated: 1490662073
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minisystem
+  fontNames:
+  - Minisystem
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
